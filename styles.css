@@ -5,6 +5,9 @@
     font-family: sans-serif;
 
 }
+body{
+    overflow-x: hidden;
+}
 .first-container{
    /* border: 1px solid red; */
    
